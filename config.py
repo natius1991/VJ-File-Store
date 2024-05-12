@@ -37,7 +37,7 @@ ADMINS = int(environ.get("ADMINS", "5652266773"))
 # Database Information
 CLONE_DB_URI = environ.get("CLONE_DB_URI", "")
 CDB_NAME = environ.get("CDB_NAME", "clonevjbotz")
-DB_URI = environ.get("DB_URI", "")
+DB_URI = environ.get("DB_URI", "mongodb://atlas-sql-663f2807618b861f0312f8cf-td4gg.a.query.mongodb.net/sample_mflix?ssl=true&authSource=admin")
 DB_NAME = environ.get("DB_NAME", "vjbotz")
 
 # Don't Remove Credit Tg - @VJ_Botz
