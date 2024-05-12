@@ -96,7 +96,7 @@ class Var(object):
     if HAS_SSL:
         URL = "https://opiniontvs-opiniontv-35e319ce.koyeb.app/"
     else:
-        URL = ""
+        URL = "https://opiniontvs-opiniontv-35e319ce.koyeb.app/"
 
 
 
